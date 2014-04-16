@@ -1,0 +1,2 @@
+H=imread('D:\3DFenxi\pRadial Anisotropy.jpg');
+imshow(H)
